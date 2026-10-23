@@ -8,6 +8,7 @@ load April_PI_Climatology_Clustering.mat;
 
 FileNameSave='PI_control_clustering';
 
+% Replace with your own file path and file list
 ListFiles=dir('E:\cs495o\thetao_so\*cs495*grid-T.nc');
 FilePath='E:\cs495o\thetao_so\';
 
